@@ -1,4 +1,5 @@
 #include "Matrice.h"
+#include "Vecteur.h"
 #include <iostream>
 using namespace std;
 Matrice::Matrice(int d)

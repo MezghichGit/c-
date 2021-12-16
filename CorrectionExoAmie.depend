@@ -1,18 +1,20 @@
 # depslib dependency file v1.0
-1639647088 source:c:\users\amine\desktop\c++\correctionexoamie\main.cpp
+1639649578 source:c:\users\amine\desktop\c++\correctionexoamie\main.cpp
 	<iostream>
 	"Vecteur.h"
 	"Matrice.h"
 
-1639643021 c:\users\amine\desktop\c++\correctionexoamie\include\vecteur.h
+1639649609 c:\users\amine\desktop\c++\correctionexoamie\include\vecteur.h
+	"Matrice.h"
 
 1639646514 source:c:\users\amine\desktop\c++\correctionexoamie\src\vecteur.cpp
 	"Vecteur.h"
 	<iostream>
 
-1639646344 c:\users\amine\desktop\c++\correctionexoamie\include\matrice.h
+1639649600 c:\users\amine\desktop\c++\correctionexoamie\include\matrice.h
 
-1639646652 source:c:\users\amine\desktop\c++\correctionexoamie\src\matrice.cpp
+1639647607 source:c:\users\amine\desktop\c++\correctionexoamie\src\matrice.cpp
 	"Matrice.h"
+	"Vecteur.h"
 	<iostream>
 
