@@ -13,7 +13,7 @@ class Matrice
 
     private:
         int dim;
-        int tab[3][3];
+        int ** tab;
 };
 
 #endif // MATRICE_H
