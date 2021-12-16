@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639643125 source:c:\users\amine\desktop\c++\correctionexoamie\main.cpp
+	<iostream>
+	"Vecteur.h"
+
+1639643021 c:\users\amine\desktop\c++\correctionexoamie\include\vecteur.h
+
+1639643294 source:c:\users\amine\desktop\c++\correctionexoamie\src\vecteur.cpp
+	"Vecteur.h"
+	<iostream>
+	<stdio.h>
+
